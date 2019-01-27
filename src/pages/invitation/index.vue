@@ -27,3 +27,8 @@ export default {
     }
 }
 </script>
+
+<style scoped lang=scss>
+/* pages/invitation/index.wxss */
+@import 'index.scss';
+</style>
